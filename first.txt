@@ -1,1 +1,1 @@
-Working on Git.  This is our First Commit
+Working on Git This is cool.  This is our First Commit
